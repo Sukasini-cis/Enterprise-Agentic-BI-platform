@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+sentence-transformers
+faiss-cpu
+langgraph
+langchain-core
+langchain-groq
+python-multipart

@@ -1,0 +1,19 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# Database Caches
+faiss_index/
+datasets/
+feedback.json
+static/forecast.png
+active_dataset.csv
+
+# System files
+.gemini/
+.agents/
